@@ -313,7 +313,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "*",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
         ],
         "async": false
       },
@@ -321,7 +321,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
         ],
         "async": false
       },
@@ -329,7 +329,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/link.js",
         "name": "default",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
         ],
         "async": false
       }
@@ -364,6 +364,32 @@ self.__RSC_MANIFEST={
         "name": "defaultHead",
         "chunks": [
           "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/create-prompt/page.js": {
+      "*": {
+        "id": "(sc_client)/./app/create-prompt/page.js",
+        "name": "*",
+        "chunks": [
+          "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/create-prompt/page.js",
+        "name": "",
+        "chunks": [
+          "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/create-prompt/page.js",
+        "name": "default",
+        "chunks": [
+          "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
         ],
         "async": false
       }
@@ -1155,7 +1181,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
       ],
       "async": false
     },
@@ -1163,7 +1189,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
       ],
       "async": false
     },
@@ -1171,7 +1197,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
       ],
       "async": false
     },
@@ -1179,7 +1205,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
       ],
       "async": false
     },
@@ -1187,7 +1213,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
       ],
       "async": false
     },
@@ -1195,7 +1221,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/link.js",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
       ],
       "async": false
     },
@@ -1260,6 +1286,30 @@ self.__RSC_MANIFEST={
       "name": "defaultHead",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "D:\\Tcom-pr\\Nextjs13_buildApp\\nextjs13_base\\app\\create-prompt\\page.js": {
+      "id": "(app-client)/./app/create-prompt/page.js",
+      "name": "*",
+      "chunks": [
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Tcom-pr\\Nextjs13_buildApp\\nextjs13_base\\app\\create-prompt\\page.js#": {
+      "id": "(app-client)/./app/create-prompt/page.js",
+      "name": "",
+      "chunks": [
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
+      ],
+      "async": false
+    },
+    "D:\\Tcom-pr\\Nextjs13_buildApp\\nextjs13_base\\app\\create-prompt\\page.js#default": {
+      "id": "(app-client)/./app/create-prompt/page.js",
+      "name": "default",
+      "chunks": [
+        "app/create-prompt/page:static/chunks/app/create-prompt/page.js"
       ],
       "async": false
     }

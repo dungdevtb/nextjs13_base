@@ -7,6 +7,9 @@ self.__RSC_CSS_MANIFEST={
   "cssModules": {
     "D:\\Tcom-pr\\Nextjs13_buildApp\\nextjs13_base\\app\\page": [
       "D:\\Tcom-pr\\Nextjs13_buildApp\\nextjs13_base\\styles\\globals.css"
+    ],
+    "D:\\Tcom-pr\\Nextjs13_buildApp\\nextjs13_base\\app\\create-prompt\\page": [
+      "D:\\Tcom-pr\\Nextjs13_buildApp\\nextjs13_base\\styles\\globals.css"
     ]
   }
 }
