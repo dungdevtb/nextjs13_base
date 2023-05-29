@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/layout",{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Cstyles%5Cglobals.css&modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Ccomponents%5CNav.jsx&modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Ccomponents%5CProvider.jsx&server=false!":
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Cstyles%5Cglobals.css&modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Ccomponents%5CNav.jsx&modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Ccomponents%5CProvider.jsx&server=false! ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./styles/globals.css */ \"(app-client)/./styles/globals.css\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Nav.jsx */ \"(app-client)/./components/Nav.jsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./components/Provider.jsx */ \"(app-client)/./components/Provider.jsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPUQlM0ElNUNUY29tLXByJTVDTmV4dGpzMTNfYnVpbGRBcHAlNUNuZXh0anMxM19iYXNlJTVDc3R5bGVzJTVDZ2xvYmFscy5jc3MmbW9kdWxlcz1EJTNBJTVDVGNvbS1wciU1Q05leHRqczEzX2J1aWxkQXBwJTVDbmV4dGpzMTNfYmFzZSU1Q2NvbXBvbmVudHMlNUNOYXYuanN4Jm1vZHVsZXM9RCUzQSU1Q1Rjb20tcHIlNUNOZXh0anMxM19idWlsZEFwcCU1Q25leHRqczEzX2Jhc2UlNUNjb21wb25lbnRzJTVDUHJvdmlkZXIuanN4JnNlcnZlcj1mYWxzZSEuanMiLCJtYXBwaW5ncyI6IkFBQUEsMkpBQXVHO0FBQ3ZHLDJKQUF1RztBQUN2RyIsInNvdXJjZXMiOlsid2VicGFjazovL19OX0UvP2I1MGUiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJEOlxcXFxUY29tLXByXFxcXE5leHRqczEzX2J1aWxkQXBwXFxcXG5leHRqczEzX2Jhc2VcXFxcc3R5bGVzXFxcXGdsb2JhbHMuY3NzXCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJEOlxcXFxUY29tLXByXFxcXE5leHRqczEzX2J1aWxkQXBwXFxcXG5leHRqczEzX2Jhc2VcXFxcY29tcG9uZW50c1xcXFxOYXYuanN4XCIpO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCJEOlxcXFxUY29tLXByXFxcXE5leHRqczEzX2J1aWxkQXBwXFxcXG5leHRqczEzX2Jhc2VcXFxcY29tcG9uZW50c1xcXFxQcm92aWRlci5qc3hcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Cstyles%5Cglobals.css&modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Ccomponents%5CNav.jsx&modules=D%3A%5CTcom-pr%5CNextjs13_buildApp%5Cnextjs13_base%5Ccomponents%5CProvider.jsx&server=false!\n"));
+
+/***/ })
+
+});
