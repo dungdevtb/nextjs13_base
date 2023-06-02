@@ -1,11 +1,11 @@
 import mongoose from "mongoose";
 
-let isConnectDB = false; //theo dõi trạng thái kết nối
+let isConnected = false; // track the connection
 
-export const connectToDB = async () => {
-  mongoose.set("strictQuery", true); //tránh console.log warning ,nên đặt strictQuery
+const connectToDB = async () => {
+  mongoose.set("strictQuery", true);
 
-  if (isConnectDB) {
+  if (isConnected) {
     console.log("MongoDB is already connected");
     return;
   }
@@ -13,14 +13,16 @@ export const connectToDB = async () => {
   try {
     await mongoose.connect(process.env.MONGODB_URI, {
       dbName: "share_prompt",
-      useNewUrlParser: true,
-      useUnifiedTopology: true,
+      // useNewUrlParser: true,
+      // useUnifiedTopology: true,
     });
 
     isConnected = true;
 
     console.log("MongoDB connected");
   } catch (error) {
-    console.log(error);
+    console.log("Error not connnect DB====>", error);
   }
 };
+
+export default connectToDB;
